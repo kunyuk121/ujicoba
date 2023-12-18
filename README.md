@@ -5,6 +5,7 @@ Cara Penggunaan
 ```sh
 1. Download dan install NodeJS disini https://nodejs.org/en/download/ pilih windows installer
 2. Download source code ini dipojok kanan atas dimenu code berwarna hijau dan download as zip
+![Screenshot from 2023-12-18 23-14-56](https://github.com/endofthepain/doge/assets/11496089/2ac25acc-7721-46e9-854d-7cdf57d23d02)
 3. Unzip file yang sudah di download tadi
 4. Lalu buka CMD dan pastikan directory cmd berada difolder dari file yang sudah didownload tadi
 5. Jalankan perintah npm install
