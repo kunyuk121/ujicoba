@@ -25,7 +25,7 @@ node . wallet balance untuk check balance
 node . wallet new untuk generate wallet baru
 node . wallet sync untuk sinkronisasi dengan RPC
 node . drc-20 mint  addresstujuan  tick jumlah
-```sh
+```
 
 ## Untuk bulk inscribe
 
