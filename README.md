@@ -49,6 +49,8 @@ Khusus pengguna windows silahkan ikuti tutorial dilink ini https://www.educative
 
 ```sh
 dikarenakan limit dari API getblock cuma 40k request ane recommend ente register sendiri di https://account.getblock.io/ trus create JSON-RPC token 
+```
+
 
 ```sh
 DONATE : DAXqR66CVP7Gv37m9xSVTa8xoPq77pGqrW 
