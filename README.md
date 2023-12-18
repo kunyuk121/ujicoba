@@ -8,7 +8,9 @@ Cara Penggunaan
 3. Unzip file yang sudah di download tadi
 4. Lalu buka CMD dan pastikan directory cmd berada difolder dari file yang sudah didownload tadi
 5. Jalankan perintah npm install untuk menginstall dependency yang diperlukan
-Done script sudah bisa digunakan, untuk eksekusi file auto.sh silahkan baca panduan yang ada dibawah
+Done 
+
+script sudah bisa digunakan, untuk eksekusi file auto.sh silahkan baca panduan yang ada dibawah
 
 ```
 
@@ -33,12 +35,19 @@ node . wallet sync (untuk sinkronisasi dengan RPC)
 node . drc-20 mint addresstujuan tick jumlah (untuk melakukan minting)
 ```
 
-## Untuk bulk inscribe [Pengguna Android dan Linux]
+## Untuk bulk inscribe [Pengguna Android, Linux & Windows]
 
 ```sh
 silahkan edit file auto.sh sesuaikan dengan alamat ticker dan amount dan berapa kali (main aman 10x saja perrequest)
+untuk menjalankannya tinggal ketikan sh auto.sh enter
+
 Untuk konfigurasi RPC dan GAS silahkan edit file .env dan untuk lokasi Private Key ada di file .wallet.json
 ```
+
+```sh
+Khusus pengguna windows silahkan ikuti tutorial dilink ini https://www.educative.io/answers/how-to-install-git-bash-in-windows agar bisa mengeksekusi file sh
+```
+
 
 ```sh
 DONATE : DAXqR66CVP7Gv37m9xSVTa8xoPq77pGqrW 
