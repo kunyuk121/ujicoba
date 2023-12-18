@@ -40,14 +40,15 @@ node . drc-20 mint addresstujuan tick jumlah (untuk melakukan minting)
 ```sh
 silahkan edit file auto.sh sesuaikan dengan alamat ticker dan amount dan berapa kali (main aman 10x saja perrequest)
 untuk menjalankannya tinggal ketikan sh auto.sh enter
-
-Untuk konfigurasi RPC dan GAS silahkan edit file .env dan untuk lokasi Private Key ada di file .wallet.json
 ```
 
 ```sh
 Khusus pengguna windows silahkan ikuti tutorial dilink ini https://www.educative.io/answers/how-to-install-git-bash-in-windows agar bisa mengeksekusi file sh
 ```
+## Konfigurasi .env
 
+```sh
+dikarenakan limit dari API getblock cuma 40k request ane recommend ente register sendiri di https://account.getblock.io/ trus create JSON-RPC token 
 
 ```sh
 DONATE : DAXqR66CVP7Gv37m9xSVTa8xoPq77pGqrW 
