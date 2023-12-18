@@ -7,8 +7,8 @@ Cara Penggunaan
 2. Download source code ini dipojok kanan atas dimenu code berwarna hijau dan download as zip
 3. Unzip file yang sudah di download tadi
 4. Lalu buka CMD dan pastikan directory cmd berada difolder dari file yang sudah didownload tadi
-5. Jalankan perintah npm install
-Done 
+5. Jalankan perintah npm install untuk menginstall dependency yang diperlukan
+Done script sudah bisa digunakan, untuk eksekusi file auto.sh silahkan baca panduan yang ada dibawah
 
 ```
 
@@ -47,7 +47,7 @@ DONATE : DAXqR66CVP7Gv37m9xSVTa8xoPq77pGqrW
 note:
 
 ```sh
-.___. ya dari pada dishare cuma digrup" tertentu setelah saya tau bagus saya share toh librarynya open juga kwkwkwkwkw
+._. ya dari pada dishare cuma digrup" tertentu setelah saya tau bagus saya share toh librarynya lisensinya open juga dan kita bisa lebih hemat FEE karena ga ada SERVICE FEE alias cuma bayar network fee kwkwkwkwkw
 
 yg mau nanya bisa chat ane di @iamadamwarlock telegram, sesempetnya ane jawab yak
 ```
