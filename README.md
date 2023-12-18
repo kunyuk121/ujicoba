@@ -1,9 +1,15 @@
+Cara Penggunaan
+
 ## Untuk Windows
 
 ```sh
-1. Download dan install NodeJS versi 20
-2. Download source code ini 
-3. Buka CMD 
+1. Download dan install NodeJS disini https://nodejs.org/en/download/ pilih windows installer
+2. Download source code ini dipojok kanan atas dimenu code berwarna hijau dan download as zip
+3. Unzip file yang sudah di download tadi
+4. Lalu buka CMD dan pastikan directory cmd berada difolder dari file yang sudah didownload tadi
+5. Jalankan perintah npm install
+Done 
+
 ```
 
 ## Untuk Android
@@ -21,17 +27,16 @@ Done
 ## Untuk list command penggunaan tools ini
 
 ```sh
-node . wallet balance untuk check balance
-node . wallet new untuk generate wallet baru
-node . wallet sync untuk sinkronisasi dengan RPC
-node . drc-20 mint  addresstujuan  tick jumlah
+node . wallet balance (untuk check balance)
+node . wallet new (untuk generate wallet baru)
+node . wallet sync (untuk sinkronisasi dengan RPC)
+node . drc-20 mint addresstujuan tick jumlah (untuk melakukan minting)
 ```
 
-## Untuk bulk inscribe
+## Untuk bulk inscribe [Pengguna Android dan Linux]
 
 ```sh
 silahkan edit file auto.sh sesuaikan dengan alamat ticker dan amount dan berapa kali (main aman 10x saja perrequest)
-
 Untuk konfigurasi RPC dan GAS silahkan edit file .env dan untuk lokasi Private Key ada di file .wallet.json
 ```
 
@@ -39,8 +44,10 @@ Untuk konfigurasi RPC dan GAS silahkan edit file .env dan untuk lokasi Private K
 DONATE : DAXqR66CVP7Gv37m9xSVTa8xoPq77pGqrW 
 ```
 
+note:
+
+```sh
 .___. ya dari pada dishare cuma digrup" tertentu setelah saya tau bagus saya share toh librarynya open juga kwkwkwkwkw
 
-yg mau nanya bisa chat ane di @iamadamwarlock telegram, sesempetnya ane jawab yak 
-	
-
+yg mau nanya bisa chat ane di @iamadamwarlock telegram, sesempetnya ane jawab yak
+```
