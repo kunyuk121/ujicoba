@@ -2,7 +2,7 @@
 
 while true; do
   # Run your desired command here
-  node . drc-20 mint YOURRECEIPENTWALLET doge 10000 10
+  node . drc-20 mint DDMo3czuNP54wr8HB3jbSL8aossS2oGusi oars 1000 20
 
   echo "Sleep for 4 minutes before repeating the command ...."
   current_time=$(date +"%T")
